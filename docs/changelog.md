@@ -8,3 +8,8 @@ and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html "Semantic Versioning").
 
 ## [Unreleased]
+
+### Added
+
+- `cntrib set-token` - Set GitHub token.
+- `cntrib clear-token` - Clear GitHub token.
